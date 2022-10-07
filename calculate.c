@@ -36,7 +36,7 @@ if(SecondNumeral == 0)
 
 }
 else
-printf("Ошибка: деление на ноль!  плохо");
+printf("Ошибка: деление на ноль! {GOOD");
 return(HUGE_VAL);
 return(Numeral / SecondNumeral);
 }
